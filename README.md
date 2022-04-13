@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <h2 align="center">⚡Status</h2>
+  <h2 align="center">⚡Stats</h2>
   <div align="center">
     <a href="https://github.com/DanieleMarii">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanieleMarii&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
