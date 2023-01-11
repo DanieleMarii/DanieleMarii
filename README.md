@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"> ✨ Hello! I'm Mariane ✨ </br> Nice to meet you! </h1>
   <ul>
-    <li>20 years old</li>
+    <li>21 years old</li>
     <li>Front-end developer</li>
     <li>Studying react.js and typescript</li>
   </ul>
