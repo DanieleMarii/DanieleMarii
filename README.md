@@ -1,9 +1,10 @@
 <div>
   <h1 align="center"> ✨ Hello! I'm Mariane ✨ </br> Nice to meet you! </h1>
   <ul>
-    <li>21 years old</li>
-    <li>Front-end developer</li>
-    <li>Studying react.js and typescript</li>
+    <li>23 years old</li>
+    <li>Cybersecurity Analyst</li>
+    <li>Experience in Information Security Governance (Compliance) and Identity & Access Management (IGA)</li>
+    <li>Transitioning to Operational Security</li>
   </ul>
 </div>
 
