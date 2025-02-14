@@ -5,6 +5,7 @@
     <li>Cybersecurity Analyst</li>
     <li>Experience in Information Security Governance (Compliance) and Identity & Access Management (IAM)</li>
     <li>Transitioning to Operational Security</li>
+    <li>Graduated in Systems Analysis and Development</li>
   </ul>
 </div>
 
