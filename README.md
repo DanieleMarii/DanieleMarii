@@ -3,7 +3,7 @@
   <ul>
     <li>23 years old</li>
     <li>Cybersecurity Analyst</li>
-    <li>Experience in Information Security Governance (Compliance) and Identity & Access Management (IGA)</li>
+    <li>Experience in Information Security Governance (Compliance) and Identity & Access Management (IAM)</li>
     <li>Transitioning to Operational Security</li>
   </ul>
 </div>
