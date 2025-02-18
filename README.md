@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> ✨ Hello! I'm Mariane ✨ </br> Nice to meet you! </h1>
+  <h1 align="center"> ✨  Nice to meet you! ✨</h1>
   <ul>
     <li>23 years old</li>
     <li>Cybersecurity Analyst</li>
